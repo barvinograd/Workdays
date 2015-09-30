@@ -1,0 +1,105 @@
+Code,Country,Description,Friday,Monday,Saturday,Sunday,Thursday,Tuesday,Wednesday
+AF,Afghanistan,Saturday-Wednesday,Weekend,Workday,Workday,Workday,Weekend,Workday,Workday
+DZ,Algeria,Sunday-Thursday,Weekend,Workday,Weekend,Workday,Workday,Workday,Workday
+BH,Bahrain,Sunday-Thursday,Weekend,Workday,Weekend,Workday,Workday,Workday,Workday
+BD,Bangladesh,Sunday-Thursday,Weekend,Workday,Weekend,Workday,Workday,Workday,Workday
+EG,Egypt,Sunday-Thursday,Weekend,Workday,Weekend,Workday,Workday,Workday,Workday
+IQ,Iraq,Sunday-Thursday,Weekend,Workday,Weekend,Workday,Workday,Workday,Workday
+IL,Israel,Sunday-Thursday,Weekend,Workday,Weekend,Workday,Workday,Workday,Workday
+JO,Jordan,Sunday-Thursday,Weekend,Workday,Weekend,Workday,Workday,Workday,Workday
+KW,Kuwait,Sunday-Thursday,Weekend,Workday,Weekend,Workday,Workday,Workday,Workday
+LY,Libya,Sunday-Thursday,Weekend,Workday,Weekend,Workday,Workday,Workday,Workday
+MV,Maldives,Sunday-Thursday,Weekend,Workday,Weekend,Workday,Workday,Workday,Workday
+MR,Mauritania,Sunday-Thursday,Weekend,Workday,Weekend,Workday,Workday,Workday,Workday
+MY,Malaysia,Sunday-Thursday,Weekend,Workday,Weekend,Workday,Workday,Workday,Workday
+OM,Oman,Sunday-Thursday,Weekend,Workday,Weekend,Workday,Workday,Workday,Workday
+PS,"Palestine, State of",Sunday-Thursday,Weekend,Workday,Weekend,Workday,Workday,Workday,Workday
+QA,Qatar,Sunday-Thursday,Weekend,Workday,Weekend,Workday,Workday,Workday,Workday
+SA,Saudi Arabia,Sunday-Thursday,Weekend,Workday,Weekend,Workday,Workday,Workday,Workday
+SD,Sudan,Sunday-Thursday,Weekend,Workday,Weekend,Workday,Workday,Workday,Workday
+SY,Syrian Arab Republic,Sunday-Thursday,Weekend,Workday,Weekend,Workday,Workday,Workday,Workday
+AE,United Arab Emirates,Sunday-Thursday,Weekend,Workday,Weekend,Workday,Workday,Workday,Workday
+YE,Yemen,Sunday-Thursday,Weekend,Workday,Weekend,Workday,Workday,Workday,Workday
+AO,Angola,Monday-Friday,Workday,Workday,Weekend,Weekend,Workday,Workday,Workday
+AR,Argentina,Monday-Friday,Workday,Workday,Weekend,Weekend,Workday,Workday,Workday
+AZ,Azerbaijan,Monday-Friday,Workday,Workday,Weekend,Weekend,Workday,Workday,Workday
+AT,Austria,Monday-Friday,Workday,Workday,Weekend,Weekend,Workday,Workday,Workday
+AU,Australia,Monday-Friday,Workday,Workday,Weekend,Weekend,Workday,Workday,Workday
+BJ,Benin,Monday-Friday,Workday,Workday,Weekend,Weekend,Workday,Workday,Workday
+BE,Belgium,Monday-Friday,Workday,Workday,Weekend,Weekend,Workday,Workday,Workday
+BR,Brazil,Monday-Friday,Workday,Workday,Weekend,Weekend,Workday,Workday,Workday
+BI,Burundi,Monday-Friday,Workday,Workday,Weekend,Weekend,Workday,Workday,Workday
+BG,Bulgaria,Monday-Friday,Workday,Workday,Weekend,Weekend,Workday,Workday,Workday
+CA,Canada,Monday-Friday,Workday,Workday,Weekend,Weekend,Workday,Workday,Workday
+CM,Cameroon,Monday-Friday,Workday,Workday,Weekend,Weekend,Workday,Workday,Workday
+CL,Chile,Monday-Friday,Workday,Workday,Weekend,Weekend,Workday,Workday,Workday
+CN,China,Monday-Friday,Workday,Workday,Weekend,Weekend,Workday,Workday,Workday
+HR,Croatia,Monday-Friday,Workday,Workday,Weekend,Weekend,Workday,Workday,Workday
+CZ,Czech Republic,Monday-Friday,Workday,Workday,Weekend,Weekend,Workday,Workday,Workday
+DK,Denmark,Monday-Friday,Workday,Workday,Weekend,Weekend,Workday,Workday,Workday
+ET,Ethiopia,Monday-Friday,Workday,Workday,Weekend,Weekend,Workday,Workday,Workday
+EE,Estonia,Monday-Friday,Workday,Workday,Weekend,Weekend,Workday,Workday,Workday
+FI,Finland,Monday-Friday,Workday,Workday,Weekend,Weekend,Workday,Workday,Workday
+FR,France,Monday-Friday,Workday,Workday,Weekend,Weekend,Workday,Workday,Workday
+GA,Gabon,Monday-Friday,Workday,Workday,Weekend,Weekend,Workday,Workday,Workday
+GM,Gambia,Monday-Friday,Workday,Workday,Weekend,Weekend,Workday,Workday,Workday
+DE,Germany,Monday-Friday,Workday,Workday,Weekend,Weekend,Workday,Workday,Workday
+GH,Ghana,Monday-Friday,Workday,Workday,Weekend,Weekend,Workday,Workday,Workday
+HU,Hungary,Monday-Friday,Workday,Workday,Weekend,Weekend,Workday,Workday,Workday
+HK,Hong Kong,Monday-Friday,Workday,Workday,Weekend,Weekend,Workday,Workday,Workday
+ID,Indonesia,Monday-Friday,Workday,Workday,Weekend,Weekend,Workday,Workday,Workday
+IE,Ireland,Monday-Friday,Workday,Workday,Weekend,Weekend,Workday,Workday,Workday
+IT,Italy,Monday-Friday,Workday,Workday,Weekend,Weekend,Workday,Workday,Workday
+CI,C“te d'Ivoire,Monday-Friday,Workday,Workday,Weekend,Weekend,Workday,Workday,Workday
+JP,Japan,Monday-Friday,Workday,Workday,Weekend,Weekend,Workday,Workday,Workday
+KZ,Kazakhstan,Monday-Friday,Workday,Workday,Weekend,Weekend,Workday,Workday,Workday
+KE,Kenya,Monday-Friday,Workday,Workday,Weekend,Weekend,Workday,Workday,Workday
+LA,Lao People's Democratic Republic,Monday-Friday,Workday,Workday,Weekend,Weekend,Workday,Workday,Workday
+LV,Latvia,Monday-Friday,Workday,Workday,Weekend,Weekend,Workday,Workday,Workday
+LB,Lebanon,Monday-Friday,Workday,Workday,Weekend,Weekend,Workday,Workday,Workday
+MG,Madagascar,Monday-Friday,Workday,Workday,Weekend,Weekend,Workday,Workday,Workday
+MW,Malawi,Monday-Friday,Workday,Workday,Weekend,Weekend,Workday,Workday,Workday
+ML,Mali,Monday-Friday,Workday,Workday,Weekend,Weekend,Workday,Workday,Workday
+MT,Malta,Monday-Friday,Workday,Workday,Weekend,Weekend,Workday,Workday,Workday
+MN,Mongolia,Monday-Friday,Workday,Workday,Weekend,Weekend,Workday,Workday,Workday
+MA,Morocco,Monday-Friday,Workday,Workday,Weekend,Weekend,Workday,Workday,Workday
+MZ,Mozambique,Monday-Friday,Workday,Workday,Weekend,Weekend,Workday,Workday,Workday
+NL,Netherlands,Monday-Friday,Workday,Workday,Weekend,Weekend,Workday,Workday,Workday
+NZ,New Zealand,Monday-Friday,Workday,Workday,Weekend,Weekend,Workday,Workday,Workday
+NG,Nigeria,Monday-Friday,Workday,Workday,Weekend,Weekend,Workday,Workday,Workday
+PK,Pakistan,Monday-Friday,Workday,Workday,Weekend,Weekend,Workday,Workday,Workday
+PH,Philippines,Monday-Friday,Workday,Workday,Weekend,Weekend,Workday,Workday,Workday
+PL,Poland,Monday-Friday,Workday,Workday,Weekend,Weekend,Workday,Workday,Workday
+PT,Portugal,Monday-Friday,Workday,Workday,Weekend,Weekend,Workday,Workday,Workday
+RO,Romania,Monday-Friday,Workday,Workday,Weekend,Weekend,Workday,Workday,Workday
+RU,Russian Federation,Monday-Friday,Workday,Workday,Weekend,Weekend,Workday,Workday,Workday
+RW,Rwanda,Monday-Friday,Workday,Workday,Weekend,Weekend,Workday,Workday,Workday
+SN,Senegal,Monday-Friday,Workday,Workday,Weekend,Weekend,Workday,Workday,Workday
+SG,Singapore,Monday-Friday,Workday,Workday,Weekend,Weekend,Workday,Workday,Workday
+SK,Slovakia,Monday-Friday,Workday,Workday,Weekend,Weekend,Workday,Workday,Workday
+ES,Spain,Monday-Friday,Workday,Workday,Weekend,Weekend,Workday,Workday,Workday
+ZA,South Africa,Monday-Friday,Workday,Workday,Weekend,Weekend,Workday,Workday,Workday
+KR,"Korea, Republic of",Monday-Friday,Workday,Workday,Weekend,Weekend,Workday,Workday,Workday
+SE,Sweden,Monday-Friday,Workday,Workday,Weekend,Weekend,Workday,Workday,Workday
+SC,Seychelles,Monday-Friday,Workday,Workday,Weekend,Weekend,Workday,Workday,Workday
+TW,"Taiwan, Province of China",Monday-Friday,Workday,Workday,Weekend,Weekend,Workday,Workday,Workday
+TZ,"Tanzania, United Republic of",Monday-Friday,Workday,Workday,Weekend,Weekend,Workday,Workday,Workday
+TG,Togo,Monday-Friday,Workday,Workday,Weekend,Weekend,Workday,Workday,Workday
+TH,Thailand,Monday-Friday,Workday,Workday,Weekend,Weekend,Workday,Workday,Workday
+TN,Tunisia,Monday-Friday,Workday,Workday,Weekend,Weekend,Workday,Workday,Workday
+TR,Turkey,Monday-Friday,Workday,Workday,Weekend,Weekend,Workday,Workday,Workday
+UA,Ukraine,Monday-Friday,Workday,Workday,Weekend,Weekend,Workday,Workday,Workday
+GB,United Kingdom,Monday-Friday,Workday,Workday,Weekend,Weekend,Workday,Workday,Workday
+US,United States,Monday-Friday,Workday,Workday,Weekend,Weekend,Workday,Workday,Workday
+CD,"Congo, Democratic Republic of",Monday-Friday,Workday,Workday,Weekend,Weekend,Workday,Workday,Workday
+ZM,Zambia,Monday-Friday,Workday,Workday,Weekend,Weekend,Workday,Workday,Workday
+BN,Brunei Darussalam,Monday-Thursday and Saturday,Weekend,Workday,Workday,Weekend,Workday,Workday,Workday
+CO,Colombia,Monday-Saturday,Workday,Workday,Workday,Weekend,Workday,Workday,Workday
+GQ,Equatorial Guinea,Monday-Saturday,Workday,Workday,Workday,Weekend,Workday,Workday,Workday
+IN,India,Monday-Saturday,Workday,Workday,Workday,Weekend,Workday,Workday,Workday
+MX,Mexico,Monday-Saturday,Workday,Workday,Workday,Weekend,Workday,Workday,Workday
+KP,"Korea, Democratic People's Republic of",Monday-Saturday,Workday,Workday,Workday,Weekend,Workday,Workday,Workday
+UG,Uganda,Monday-Saturday,Workday,Workday,Workday,Weekend,Workday,Workday,Workday
+DJ,Djibouti,Saturday-Thursday,Weekend,Workday,Workday,Workday,Workday,Workday,Workday
+IR,"Iran, Islamic Republic of",Saturday-Thursday,Weekend,Workday,Workday,Workday,Workday,Workday,Workday
+NP,Nepal,Sunday-Friday,Workday,Workday,Weekend,Workday,Workday,Workday,Workday
